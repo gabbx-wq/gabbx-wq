@@ -71,12 +71,3 @@ Me chamo Kaique Gabrie, tenho 17 anos e sou natural de São Paulo. Estou cursand
 <br/>
 <br/>
 
-### 📊 Estatisticas
-
-<img
-    alt="GitHub Stats"
-    height="200"
-    style="padding-right: 10px;"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabbx- wq&theme=tokyonight&layout=compact&custom_title=Tecnologias&
-langs_count=9"
-/>
