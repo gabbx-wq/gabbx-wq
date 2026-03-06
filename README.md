@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Kaique Gabrie, tenho 17 anos e sou natural de São Paulo. Estou cursando o terceiro ano do ensino médio.Atualmente me encontro no ultimo semestre do meu curso tecnico de Análise e Desenvolvimento de Sistemas no colegio sir.isaac newton. Estou me apaixonando pelo meio tecnologico e estou certo de que essa área é para minha vida.
+Me chamo Kaique Gabrie, tenho 17 anos e sou natural de São Paulo Capital. Estou cursando o terceiro ano do ensino médio. Atualmente me encontro no ultimo semestre do meu curso tecnico de Análise e Desenvolvimento de Sistemas no colegio sir.isaac newton. Estou me apaixonando pelo meio tecnologico e estou certo de que essa área é para minha vida.
 
 <p>
     <a href="">
